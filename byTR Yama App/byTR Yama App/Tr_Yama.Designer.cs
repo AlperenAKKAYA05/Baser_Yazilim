@@ -18,7 +18,6 @@
 		private void InitializeComponent()
 		{
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Tr_Yama));
-            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.label3 = new System.Windows.Forms.Label();
             this.kurulumAsamasi_Deger = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -35,6 +34,7 @@
             this.yama_select_combobox = new MetroFramework.Controls.MetroComboBox();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
             this.label1 = new System.Windows.Forms.Label();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.SuspendLayout();
             // 
             // label3
@@ -229,7 +229,7 @@
             this.yama_select_combobox.FormattingEnabled = true;
             this.yama_select_combobox.ItemHeight = 23;
             this.yama_select_combobox.Items.AddRange(new object[] {
-            "Seçilen Yama Tropico 6"});
+            "Tropico 6 Türkçe Yama"});
             this.yama_select_combobox.Location = new System.Drawing.Point(271, 38);
             this.yama_select_combobox.Name = "yama_select_combobox";
             this.yama_select_combobox.Size = new System.Drawing.Size(342, 29);
@@ -304,9 +304,6 @@
 		// Token: 0x04000001 RID: 1
 		private global::System.ComponentModel.IContainer components;
 
-		// Token: 0x04000008 RID: 8
-		private global::System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-
 		// Token: 0x04000009 RID: 9
 		private global::System.Windows.Forms.Label label3;
 
@@ -328,5 +325,6 @@
         private MetroFramework.Controls.MetroComboBox yama_select_combobox;
         internal MetroFramework.Controls.MetroLabel metroLabel3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
     }
 }

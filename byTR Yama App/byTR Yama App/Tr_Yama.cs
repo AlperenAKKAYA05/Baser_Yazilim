@@ -1,14 +1,12 @@
 ﻿using MetroFramework.Forms;
 using System;
-using System.ComponentModel;
-using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 
 namespace byTR_Yama_App
 {
-	// Token: 0x02000002 RID: 2
-	public partial class Tr_Yama : MetroForm
+    // Token: 0x02000002 RID: 2
+    public partial class Tr_Yama : MetroForm
     {
 		// Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
 		public Tr_Yama()
@@ -129,7 +127,7 @@ namespace byTR_Yama_App
                     }
                 }
             }
-    }
+        }
 
         private void Gözat_button_Click_1(object sender, EventArgs e)
         {
@@ -137,6 +135,11 @@ namespace byTR_Yama_App
             string selectedPath = this.folderBrowserDialog1.SelectedPath;
             this.folderBrowserDialog1.ShowNewFolderButton = false;
             this.oyun_dizin_textbox.Text = selectedPath;
+        }
+
+        private void FolderBrowserDialog1_HelpRequest(object sender, EventArgs e)
+        {
+
         }
     }
 }

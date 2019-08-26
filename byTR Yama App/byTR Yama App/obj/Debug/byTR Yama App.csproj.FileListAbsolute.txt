@@ -10,3 +10,16 @@ C:\Users\alper\Desktop\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.cspro
 C:\Users\alper\Desktop\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.csproj.CopyComplete
 C:\Users\alper\Desktop\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.exe
 C:\Users\alper\Desktop\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.pdb
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\byTR Yama App.exe.config
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\byTR Yama App.exe
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\byTR Yama App.pdb
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\MetroFramework.Design.dll
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\MetroFramework.dll
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR_Yama_App.Tr_Yama.resources
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.csproj.GenerateResource.cache
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.csproj.CoreCompileInputs.cache
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.csproj.CopyComplete
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.exe
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.pdb
+C:\Users\alper\Documents\GitHub\Baser_Yazilim\byTR Yama App\byTR Yama App\obj\Debug\byTR Yama App.csprojAssemblyReference.cache
